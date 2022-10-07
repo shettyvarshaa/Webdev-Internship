@@ -1,0 +1,17 @@
+/* ID Selector */
+#headingCSS{
+    text-align: center; 
+    margin-top: 100px;color: rgb(110, 58, 221); 
+    background-color: bisque;
+}
+
+/* Class Selector */
+.alignCSS{
+    text-align: right;
+    margin-top: 100px;
+}
+
+.colorCSS{
+    color:  rgb(110, 58, 221);
+    background-color: bisque;
+}
